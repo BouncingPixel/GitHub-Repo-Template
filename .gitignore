@@ -1,14 +1,3 @@
-node_modules
-dev_conf.js
-
-# Composer Vendors #
-####################
-vendor
-
-# Twig Templates #
-##################
-compiled_templates
-
 # Windows IIS Config #
 ######################
 web.config
@@ -47,3 +36,12 @@ web.config
 thumbs.db
 Thumbs.db
 Icon?
+
+# NodeJS Files / Folders #
+##########################
+node_modules
+dev_conf.js
+
+# Composer Vendors #
+####################
+vendor
