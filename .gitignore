@@ -45,3 +45,7 @@ dev_conf.js
 # Composer Vendors #
 ####################
 vendor
+
+# OpenShift Project file #
+##########################
+.ocprojectname
