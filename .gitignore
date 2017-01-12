@@ -1,6 +1,7 @@
 # Windows IIS Config #
 ######################
 web.config
+Iirf.ini
 
 # Compiled source #
 ###################
@@ -45,7 +46,20 @@ dev_conf.js
 # Composer Vendors #
 ####################
 vendor
+/bin/
+.composer
+composer.phar
+phpinfo.php
+
+# NPM stuff #
+#############
+node_modules
+.npm
+.node-gyp
+.grunt
+npm-debug*
 
 # OpenShift Project file #
 ##########################
-.ocprojectname
+.ocproject
+.pki
